@@ -1,3 +1,15 @@
+# Master of science in Software Engineering
+
+## Модуль 2. (Розгалуження та цикли)
+
+### План заняття (09.11.2023):
+
+- Розгалуження
+- Тернарний оператор
+- Інструкція switch
+- Область видимості
+- Цикли
+
 # goit-js-hw-01
 
 Module 1: Variables and types. Introduction to JavaScript
